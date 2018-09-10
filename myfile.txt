@@ -4,4 +4,6 @@ This is my second commit!
 
 You're doing great - next up fix google!
 
-This is the line I edited
+I fixed Google, so now I am ready to go!
+
+Trying to have a merge issue :o
